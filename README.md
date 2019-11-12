@@ -38,7 +38,7 @@ Computer Programming **Labsheets**
 - Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 
 **Mini-Project**
-- Select Project Titles
+- [Select Project Titles](https://github.com/ErSKS/C_v3/issues/1)
 - Mini-Project Team - BCT
 - Mini-Project Team - BEL
 - [Proposal Format](https://drive.google.com/file/d/1hW2ivtfwjxNxQ09_eKIHQqZtGUK9U9LX/view?usp=sharing)
