@@ -33,19 +33,9 @@ Computer Programming **Assignments**
 - Assignment#4
 
 Computer Programming **Labsheets**
-- Lab Instructions
-- Cover Page of Lab Report
-- Labsheet#1
-- Labsheet#2
-- Labsheet#3
-- Labsheet#4
-- Labsheet#5
-- Labsheet#6
-- Labsheet#7
-- Labsheet#8
-- Labsheet#9
-- Labsheet#10
-- Labsheet#11
+- [Lab Instructions](https://github.com/ErSKS/C_v3/blob/master/Lab_Instructions.pdf)
+- [Cover Page of Lab Report](https://github.com/ErSKS/C_v3/blob/master/Cover_Page_of_Lab_Report.pdf)
+- Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 
 **Mini-Project**
 - Select Project Titles
