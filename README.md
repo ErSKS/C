@@ -5,17 +5,17 @@
  ![Version](https://img.shields.io/badge/version-3.0-blue.svg)
 
 Lecturer **Slides**
-- Introduction to BCT
-- Introduction to BEL
+- [Introduction to BCT](https://github.com/ErSKS/C_v3/blob/master/BCT_Computer_Engineering.pdf)
+- [Introduction to BEL](https://github.com/ErSKS/C_v3/blob/master/BEL_Electrical_Engineering.pdf)
 - Intoduction to C (Basic Touch)
 - Short History of Computing
 
 Computer Programming **Lecturer Slides**
-- Chapter 1: Overview of Computer Software & Programming Languages
-- Chapter 2: Problem Solving Using Computer
-- Chapter 3: Introduction to C Programming
+- Chapter 1: [Overview of Computer Software & Programming Languages](https://github.com/ErSKS/C_v3/blob/master/Ch1_Overview_of_Computer_Software_and_Programming_Language.pdf)
+- Chapter 2: [Problem Solving Using Computer](https://github.com/ErSKS/C_v3/blob/master/Ch2_Problem_Solving_Using_Computer.pdf)
+- Chapter 3: [Introduction to C Programming](https://github.com/ErSKS/C_v3/blob/master/Ch3_Introduction_to_C_Programming.pdf)
 - Chapter 4: Input and Output
-- Chapter 5: Control Statements
+- Chapter 5: [Control Statements](https://github.com/ErSKS/C_v3/blob/master/Ch5_Control_Statements.pdf)
 - Chapter 6: User-Defined Functions
 - Chapter 7: Arrays and Strings
 - Chapter 8: Structures
