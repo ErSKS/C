@@ -14,10 +14,10 @@ Computer Programming **Lecturer Slides**
 - Chapter 1: [Overview of Computer Software & Programming Languages](https://github.com/ErSKS/C_v3/blob/master/Ch1_Overview_of_Computer_Software_and_Programming_Language.pdf)
 - Chapter 2: [Problem Solving Using Computer](https://github.com/ErSKS/C_v3/blob/master/Ch2_Problem_Solving_Using_Computer.pdf)
 - Chapter 3: [Introduction to C Programming](https://github.com/ErSKS/C_v3/blob/master/Ch3_Introduction_to_C_Programming.pdf)
-- Chapter 4: Input and Output
+- Chapter 4: [Input and Output](https://github.com/ErSKS/C_v3/blob/master/Ch4_Input_and_Output_v2.pdf)
 - Chapter 5: [Control Statements](https://github.com/ErSKS/C_v3/blob/master/Ch5_Control_Statements.pdf)
-- Chapter 6: User-Defined Functions
-- Chapter 7: Arrays and Strings
+- Chapter 6: [User-Defined Functions](https://github.com/ErSKS/C_v3/blob/master/Ch6_User_Defined_Functions.pdf)
+- Chapter 7: [Arrays and Strings](https://github.com/ErSKS/C_v3/blob/master/Ch7_Arrays_and_Strings.pdf)
 - Chapter 8: Structures
 - Chapter 9: Pointers
 - Chapter 10: Data Files
