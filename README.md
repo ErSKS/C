@@ -18,7 +18,7 @@ Computer Programming **Lecturer Slides**
 - Chapter 5: [Control Statements](https://github.com/ErSKS/C_v3/blob/master/Ch5_Control_Statements.pdf)
 - Chapter 6: [User-Defined Functions](https://github.com/ErSKS/C_v3/blob/master/Ch6_User_Defined_Functions.pdf)
 - Chapter 7: [Arrays and Strings](https://github.com/ErSKS/C_v3/blob/master/Ch7_Arrays_and_Strings.pdf)
-- Chapter 8: Structures
+- Chapter 8: [Structures](https://github.com/ErSKS/C_v3/blob/master/Ch8_Structures.pdf)
 - Chapter 9: Pointers
 - Chapter 10: Data Files
 - Chapter 11: Programming Language: FORTRAN
@@ -28,14 +28,13 @@ Programming Language: FORTRAN
 
 Computer Programming **Assignments**
 - [Assignment#1](https://github.com/ErSKS/C_v3/blob/master/Assignment_1.pdf)
-- Assignment#2
-- Assignment#3
-- Assignment#4
+- [Assignment#2](https://github.com/ErSKS/C_v3/blob/master/Assignment_2.pdf)
+- [Assignment#3](https://github.com/ErSKS/C_v3/blob/master/Assignment_3.pdf)
 
 Computer Programming **Labsheets**
 - [Lab Instructions](https://github.com/ErSKS/C_v3/blob/master/Lab_Instructions.pdf)
 - [Cover Page of Lab Report](https://github.com/ErSKS/C_v3/blob/master/Cover_Page_of_Lab_Report.pdf)
-- Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+- Labsheets: [#1](https://github.com/ErSKS/C_v3/blob/master/Labsheet_1.pdf) | [#2](https://github.com/ErSKS/C_v3/blob/master/Labsheet_2.pdf) | [#3](https://github.com/ErSKS/C_v3/blob/master/Labsheet_3.pdf) | [#4](https://github.com/ErSKS/C_v3/blob/master/Labsheet_4.pdf) | [#5](https://github.com/ErSKS/C_v3/blob/master/Labsheet_5.pdf) | [#6](https://github.com/ErSKS/C_v3/blob/master/Labsheet_6.pdf) | [#7](https://github.com/ErSKS/C_v3/blob/master/Labsheet_7.pdf) | [#8](https://github.com/ErSKS/C_v3/blob/master/Labsheet_8.pdf) | [#9](https://github.com/ErSKS/C_v3/blob/master/Labsheet_9.pdf) | [#10](https://github.com/ErSKS/C_v3/blob/master/Labsheet_10.pdf) | [#11](https://github.com/ErSKS/C_v3/blob/master/Labsheet_11.pdf)
 
 **Mini-Project**
 - [Select Project Titles](https://github.com/ErSKS/C_v3/issues/1)
