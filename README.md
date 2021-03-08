@@ -1,8 +1,8 @@
-# C-Programming [Learning Materials] v3.0
+# C-Programming [Learning Materials] v4.0
 
 **Contact Email:** c.khwopa@gmail.com or computer.khwopa@gmail.com
 
- ![Version](https://img.shields.io/badge/version-3.0-blue.svg)
+ ![Version](https://img.shields.io/badge/version-4.0-blue.svg)
 
 Lecturer **Slides**
 - [Introduction to BCT](https://github.com/ErSKS/C_v3/blob/master/BCT_Computer_Engineering.pdf)
