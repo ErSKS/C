@@ -34,7 +34,7 @@ Computer Programming **Assignments**
 Computer Programming **Labsheets**
 - Lab Instructions
 - Cover Page of Lab Report
-- Labsheet Manual
+- C Lab Manual
 
 **Mini-Project**
 - Select Project Titles
