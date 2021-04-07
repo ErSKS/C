@@ -53,6 +53,7 @@ Computer Programming **Labsheets**
 - C Syllabus
 - C Books
 - [C Programming Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
+- First Assessment Result - BCE I/I
 - First Assessment Result - BCT I/I
 - First Assessment Result - BEL I/I
 - [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
