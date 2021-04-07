@@ -34,7 +34,7 @@ Computer Programming **Assignments**
 Computer Programming **Labsheets**
 - [Lab Instructions](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Lab_Instructions_v4.pdf)
 - [Cover Page of Lab Report](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Cover_Page_of_Lab_Report.pdf)
-- C Lab Manual
+- Download [C Lab Manual](https://drive.google.com/file/d/1r1Tqr3PAOxeLRVi_lpHYRlTvqEAmN8sd/view?usp=sharing) or Explore Labsheets [#1](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_1.pdf), [#2](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_2.pdf), [#3](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_3.pdf), [#4](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_4.pdf), [#5](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_5.pdf), [#6](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_6.pdf), [#7](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_7.pdf), [#8](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_8.pdf), [#9](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_9.pdf), [#10](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_10.pdf), [#11](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Labsheet_11.pdf) 
 
 **Mini-Project**
 - Select Project Titles
