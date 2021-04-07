@@ -38,6 +38,7 @@ Computer Programming **Labsheets**
 
 **Mini-Project**
 - Select Project Titles
+- Mini-Project Team - BCE
 - Mini-Project Team - BCT
 - Mini-Project Team - BEL
 - [Proposal Format](https://drive.google.com/file/d/1hW2ivtfwjxNxQ09_eKIHQqZtGUK9U9LX/view?usp=sharing)
