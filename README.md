@@ -32,8 +32,8 @@ Computer Programming **Assignments**
 - Assignment#3
 
 Computer Programming **Labsheets**
-- Lab Instructions
-- Cover Page of Lab Report
+- [Lab Instructions](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Lab_Instructions_v4.pdf)
+- [Cover Page of Lab Report](https://github.com/ErSKS/C/blob/master/v4/Labsheets/Cover_Page_of_Lab_Report.pdf)
 - C Lab Manual
 
 **Mini-Project**
