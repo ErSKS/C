@@ -50,7 +50,7 @@ Computer Programming **Labsheets**
 - [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
 
 **Miscellaneous**
-- C Syllabus
+- [C Syllabus](https://github.com/ErSKS/C/blob/master/v4/Syllabus_Computer_Programming.pdf)
 - C Books
 - [C Programming Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
 - First Assessment Result - BCE I/I
