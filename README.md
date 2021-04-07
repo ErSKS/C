@@ -51,7 +51,7 @@ Computer Programming **Labsheets**
 
 **Miscellaneous**
 - [C Syllabus](https://github.com/ErSKS/C/blob/master/v4/Syllabus_Computer_Programming.pdf)
-- C Books
+- [C Books](https://github.com/ErSKS/C/issues/12)
 - [C Programming Question Bank](https://drive.google.com/drive/folders/1toajMBDZ2Oap663ZuJxVKWqDSYgfCL-9?usp=sharing)
 - First Assessment Result - BCE I/I
 - First Assessment Result - BCT I/I
