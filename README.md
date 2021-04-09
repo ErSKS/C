@@ -56,6 +56,7 @@ Computer Programming **Labsheets**
 - First Assessment Result - BCE I/I
 - First Assessment Result - BCT I/I
 - First Assessment Result - BEL I/I
+- [C Programming for Beginners - Edureka](https://www.youtube.com/watch?v=8PopR3x-VMY)
 - [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 - [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
 - [C Compilers(Turbo C++/Dev C++)](https://drive.google.com/drive/folders/1m5-boSHxtAF4zzWgXlK5pEzyZDWv10uo?usp=sharing)
