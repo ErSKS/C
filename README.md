@@ -7,7 +7,7 @@
 Lecturer **Slides**
 - [BCT Intro](https://github.com/ErSKS/C/blob/master/v4/BCT_Computer_Engineering_v4.pdf)
 - [BEL Intro](https://github.com/ErSKS/C/blob/master/v4/BEL_Electrical_Engineering_v4.pdf)
-- Intoduction to C (Basic Touch)
+- Subject Orientation
 - Short History of Computing
 
 Computer Programming **Lecturer Slides**
